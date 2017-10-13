@@ -1,1 +1,0 @@
-A lot of Java samples.
